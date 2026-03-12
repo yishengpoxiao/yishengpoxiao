@@ -32,22 +32,22 @@
         🤝 <b>Collaboration:</b> Open to exciting research collaborations
       </p>
     </details>
-  </details>
-  <details>
-    <summary>Tools</summary>
-    <div>
-      <p style="display: inline-block;" align="center">
-        <kbd>
-          <kbd>Programming Languages</kbd>
-          <br>
-          <br>
-          <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cpp" title="C++" /> 
-          <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="py" title="Python"/> 
-          <img width="30px" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/matlab/matlab-original.svg" alt="matlab" title="Matlab"/>
-
-        </kbd>
-      </p>
-    </div>
+    <details>
+      <summary>Tools</summary>
+      <div>
+        <p style="display: inline-block;" align="center">
+          <kbd>
+            <kbd>Programming Languages</kbd>
+            <br>
+            <br>
+            <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cpp" title="C++" /> 
+            <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="py" title="Python"/> 
+            <img width="30px" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/matlab/matlab-original.svg" alt="matlab" title="Matlab"/>
+  
+          </kbd>
+        </p>
+      </div>
+    </details>
   </details>
   <img src="./assets/images/pokeball_bottom.png" alt="Bottom of pokeball" />
 </div>
