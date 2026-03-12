@@ -25,7 +25,7 @@
       <br>
       <p align="left">
         🧠 <b>Name:</b> Yijie Li <br>
-        🎓 <b>Role:</b> PhD Candidate @ UESTC <br>
+        🎓 <b>Role:</b> PhD Student @ UESTC <br>
         📍 <b>Location:</b> Chengdu, Sichuan, China <br>
         🌐 <b>Languages:</b> Chinese, English <br>
         🔬 <b>Research Interests:</b> Diffusion MRI, Medical Image Analysis, Computational Neuroscience <br>
