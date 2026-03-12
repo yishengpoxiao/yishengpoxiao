@@ -101,13 +101,13 @@
             <kbd>Medical Imaging & Neuroimaging</kbd>
             <br>
             <br>
-            <img width="30px" src="https://www.vtk.org/wp-content/uploads/2015/03/vtk_logo-main1.png“ alt="vtk" title="VTK"/>
-            <img width="30px" src="https://discourse.itk.org/uploads/default/original/2X/9/91e049d6d6af4605b422cf1c2d1cc3a17443dbaa.png“ alt="itk" title="ITK"/>
-            <img width="30px" src="https://www.slicer.org/assets/img/3D-Slicer-Mark.svg“ alt="3dslicer" title="3D Slicer"/>
-            <img width="30px" src="https://github.com/MRtrix3/mrtrix3/blob/master/icons/mrtrix.png“ alt="mrtrix" title="MRtrix3"/>
-            <img width="30px" src="https://dsi-studio.labsolver.org/images/dsi_studio.jfif“ alt="dsi" title="DSI Studio"/>
-            <img width="30px" src="https://fsl.fmrib.ox.ac.uk/fsl/docs/logo.jpg“ alt="fsl" title="FSL"/>
-            <img width="30px" src="https://surfer.nmr.mgh.harvard.edu/landing/images/brain.png” alt="freesurfer" title="FreeSurfer"/>
+            <img width="30px" src="./assets/icons/vtk-icon.png" alt="vtk" title="VTK"/>
+            <img width="30px" src="./assets/icons/itk-icon.png" alt="itk" title="ITK"/>
+            <img width="30px" src="./assets/icons/slicer-icon.svg" alt="3dslicer" title="3D Slicer"/>
+            <img width="30px" src="./assets/icons/mrtrix-icon.png" alt="mrtrix" title="MRtrix3"/>
+            <img width="30px" src="./assets/icons/dsi_studio-icon.png" alt="dsi" title="DSI Studio"/>
+            <img width="30px" src="./assets/icons/fsl-icon.jpg" alt="fsl" title="FSL"/>
+            <img width="30px" src="./assets/icons/freesurfer-icon.png" alt="freesurfer" title="FreeSurfer"/>
           </kbd>
         </p>
       </div>
