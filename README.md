@@ -32,7 +32,6 @@
         🤝 <b>Collaboration:</b> Open to exciting research collaborations
       </p>
     </details>
-    
     <details>
       <summary>Tools</summary>
       <div>
