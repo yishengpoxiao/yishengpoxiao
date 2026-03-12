@@ -20,20 +20,21 @@
           alt="Typing SVG">
       </a>
     </div>
-
-    <details>
-      <summary>About me</summary>
-      <br>
-      <p align="left">
-        🧠 <b>Name:</b> Yijie Li <br>
-        🎓 <b>Role:</b> PhD Candidate @ UESTC <br>
-        📍 <b>Location:</b> Chengdu, Sichuan, China <br>
-        🌐 <b>Languages:</b> Chinese, English <br>
-        🔬 <b>Research Interests:</b> Diffusion MRI, Medical Image Analysis, Computational Neuroscience <br>
-        🤝 <b>Collaboration:</b> Open to exciting research collaborations
-      </p>
-    </details>
-
   </details>
+
+  <details>
+    <summary>About me</summary>
+    <br>
+    <p align="left">
+      🧠 <b>Name:</b> Yijie Li <br>
+      🎓 <b>Role:</b> PhD Candidate @ UESTC <br>
+      📍 <b>Location:</b> Chengdu, Sichuan, China <br>
+      🌐 <b>Languages:</b> Chinese, English <br>
+      🔬 <b>Research Interests:</b> Diffusion MRI, Medical Image Analysis, Computational Neuroscience <br>
+      🤝 <b>Collaboration:</b> Open to exciting research collaborations
+    </p>
+  </details>
+
+
 
 </div>
