@@ -43,6 +43,21 @@
             <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cpp" title="C++" /> 
             <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="py" title="Python"/> 
             <img width="30px" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/matlab/matlab-original.svg" alt="matlab" title="Matlab"/>
+            <img width="30px" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/javascript/javascript-original.svg" alt="js" title="JavaScript"/>
+          </kbd>
+          <kbd>
+            <kbd>Back-end</kbd>
+            <br>
+            <br>
+            <img width="30px" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/django/django-plain-wordmark.svg" alt="django" title="Django"/>
+            <img width="30px" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/flask/flask-original-wordmark.svg" alt="flask" title="Flask"/>
+          </kbd>
+          <kbd>
+            <kbd>Front-end</kbd>
+            <br>
+            <br>
+            <img width="30px" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/html5/html5-original-wordmark.svg" alt="html" title="HTML"/> 
+            <img width="30px" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/css3/css3-original-wordmark.svg" alt="css" title="CSS"/>  
           </kbd>
         </p>
       </div>
