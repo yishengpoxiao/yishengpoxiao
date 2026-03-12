@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="./assets/images/pokemon.png" alt="Top of pokeball" />
+  <img src="./assets/images/pokeball_top.png" alt="Top of pokeball" />
 
   <details>
     <summary>Open profile</summary>
@@ -33,4 +33,5 @@
       </p>
     </details>
   </details>
+  <img src="./assets/images/pokeball_bottom.png" alt="Bottom of pokeball" />
 </div>
