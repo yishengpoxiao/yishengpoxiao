@@ -101,13 +101,13 @@
             <kbd>Medical Imaging & Neuroimaging</kbd>
             <br>
             <br>
-            <img width="30px" src="./assets/icons/vtk-icon.png" alt="vtk" title="VTK"/>
-            <img width="30px" src="./assets/icons/itk-icon.png" alt="itk" title="ITK"/>
-            <img width="30px" src="./assets/icons/slicer-icon.svg" alt="3dslicer" title="3D Slicer"/>
-            <img width="30px" src="./assets/icons/mrtrix-icon.png" alt="mrtrix" title="MRtrix3"/>
-            <img width="30px" src="./assets/icons/dsi_studio-icon.png" alt="dsi" title="DSI Studio"/>
-            <img width="30px" src="./assets/icons/fsl-icon.jpg" alt="fsl" title="FSL"/>
-            <img width="30px" src="./assets/icons/freesurfer-icon.png" alt="freesurfer" title="FreeSurfer"/>
+            <img height="32px" src="./assets/icons/vtk-icon.png" alt="vtk" title="VTK"/>
+            <img height="32px" src="./assets/icons/itk-icon.png" alt="itk" title="ITK"/>
+            <img height="32px" src="./assets/icons/slicer-icon.svg" alt="3dslicer" title="3D Slicer"/>
+            <img height="32px" src="./assets/icons/mrtrix-icon.png" alt="mrtrix" title="MRtrix3"/>
+            <img height="32px" src="./assets/icons/dsi_studio-icon.png" alt="dsi" title="DSI Studio"/>
+            <img height="32px" src="./assets/icons/fsl-icon.jpg" alt="fsl" title="FSL"/>
+            <img height="32px" src="./assets/icons/freesurfer-icon.png" alt="freesurfer" title="FreeSurfer"/>
           </kbd>
         </p>
       </div>
